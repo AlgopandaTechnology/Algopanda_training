@@ -1,0 +1,35 @@
+#web-dev {
+  background-color: #6c757;
+  padding: 50px;
+}
+
+#Java-prgm {
+  background-color: #f8f9fa;
+  padding: 50px;
+}
+#C-prgm{
+  background-color: #6c757;
+  padding: 50px;
+}
+.web-design {}
+
+.course-name{
+  text-align: center;
+  font-size: 50px;
+
+}
+
+.btn {
+  margin-top: 20px;
+  background-color: #ffc107;
+}
+
+.About-this-course {
+  line-height: 3rem;
+  margin: 25px;
+}
+
+.description{
+  margin: 25px;
+font-size: 18px;
+}
